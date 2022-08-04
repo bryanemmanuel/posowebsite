@@ -14,7 +14,7 @@
 
         <header class="section-header">
           <h3>Features</h3>
-          <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus.</p>
+          <p>Features are the “tools” you use within a system to complete a set of tasks or actions.</p>
         </header>
 
         <div class="row g-5">

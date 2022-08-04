@@ -66,7 +66,14 @@
 }
 
 
-
+.description {
+  font-size: 14px;
+  line-height: 28px;
+  margin-bottom: 0;
+  text-align: justify;
+  text-justify: inter-word;
+  text-indent: 25px;
+}
 
 
 
@@ -109,9 +116,10 @@
                   <p>promotes public order, security, and peace in the City. It is mandated to maintain orderliness through the strict implementation of all existing rules governing land use as well as other rules related to the maintenance of peace and order.</p>
                 </div>
 
-                <div class="footer-newsletter">
-                  <h4>Our Newsletter</h4>
-                  <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna veniam enim veniam illum dolore legam minim quorum culpa amet magna export quem.</p>
+                <div class="description">
+                  <h4>FUNCTIONAL STATEMENTS</h4>
+                  <p>For the purpose of providing an effective traffic and transportation management in the city development of a scheme is imperative in consonance with the City Ordinance No. 511, S. 2011 known as the 2011 Calamba City Traffic Code. <br>
+                 <br> To enforce/implement national laws and local ordinances that may contribute to the City’s objective in having a disciplined society, safe environment, effective traffic management.</p>
                   
                 </div>
 
@@ -123,19 +131,19 @@
                   <ul>
                     <li><a href="#">Home</a></li>
                     <li><a href="#about">About us</a></li>
-                    <li><a href="#">Services</a></li>
-                    <li><a href="#">Terms of service</a></li>
+                    <li><a href="#services">Features</a></li>
+                
                     <li><a href="#">Privacy policy</a></li>
                   </ul>
                 </div>
 
                 <div class="footer-links">
                   <h4>Contact Us</h4>
-                  <strong>Address:</strong>3rd Flr. CCDRMO Bldg., New City Hall Complex Chipeco Ave. Exr.,
-                  Brgy. Real Calamba, Laguna
+                  <strong>Department Head: </strong>Mr. Jeffrey Rodriguez
+                  <strong>Address:</strong>2nd Floor, CDRRM Bldg., New City Hall Compound
                   <br><br>
                     <strong>Tel no.:</strong> 545-6789<br>
-                    <strong>Email:</strong> poso@gmail.com<br>
+                    <strong>Email:</strong> : poso@calambacity.gov.ph <br>
                   </p>
                 </div>
 

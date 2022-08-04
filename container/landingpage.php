@@ -10,7 +10,7 @@
         </div>
 
         <div class="col-lg-6 intro-img order-lg-last order-first" data-aos="zoom-out" data-aos-delay="200">
-          <img src="assets/img/intro-img.svg" alt="" class="img-fluid">
+          <img src="assets/img/intro-img.webp" alt="" class="img-fluid">
         </div>
       </div>
 
